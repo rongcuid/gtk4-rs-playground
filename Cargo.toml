@@ -8,3 +8,6 @@ edition = "2021"
 [dependencies]
 gtk = { version = "0.4", package = "gtk4" }
 once_cell = "1"
+
+[build-dependencies]
+gtk = { version = "0.4", package = "gtk4" }
